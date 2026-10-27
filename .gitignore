@@ -1,0 +1,14 @@
+# Prerequisites & Dependency Files
+*.d
+
+# Object files & Binaries
+*.o
+*.obj
+*.exe
+*.out
+build/
+
+# Other
+.claude/
+.trash/
+
